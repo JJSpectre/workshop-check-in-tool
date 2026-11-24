@@ -147,7 +147,7 @@ else:
         print("Checked in (0): None")
     else:
         print("Checked in (" + str(len(checked_in)) + "): "
-      + ", ".join(checked_in))
+              + ", ".join(checked_in))
 
     if len(walk_ins) == 0:
         print("Walk-ins (0): None")
