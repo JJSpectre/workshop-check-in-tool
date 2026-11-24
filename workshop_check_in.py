@@ -1,8 +1,8 @@
 # JJSpectre
-# ITSC 1212 – Project 3, UNC Charlotte (Fall 2026)
+# Coursework project, UNC Charlotte (Fall 2026)
 #
 # Workshop Check-In Tool
-# Checks students in at the door of a NinerTech workshop on campus. Compares
+# Checks students in at the door of a workshop on campus. Compares
 # each arriving student against the RSVP list, keeps track of walk-ins and a
 # waitlist when the room fills up, and prints an attendance report at the end.
 
