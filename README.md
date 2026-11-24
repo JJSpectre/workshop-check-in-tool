@@ -2,7 +2,7 @@
 
 A Python tool for checking students in at the door of a campus tech workshop. It matches each arriving student against the RSVP list, admits walk-ins while seats are open, starts a waitlist once the room is full, and prints an attendance report when check-in ends.
 
-Built for ITSC 1212 (Project 3) at UNC Charlotte. The scenario: staff were checking names off a printed list by hand, so names got misspelled, people were counted twice, and nobody knew how many seats were left.
+Built as a project for an introductory programming course at UNC Charlotte. The scenario: staff were checking names off a printed list by hand, so names got misspelled, people were counted twice, and nobody knew how many seats were left.
 
 ## How to run it
 
